@@ -1,0 +1,2 @@
+A project I did for class where we analyze the "mood" of each state based on search terms.
+For example, "guns" in Texas may have a favorable view (words such as "good", "happy", etc.) while in Connecticut it may not.
